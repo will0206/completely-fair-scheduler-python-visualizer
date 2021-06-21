@@ -38,4 +38,8 @@
     1 1000 3000 0
     2 2000 4000 -2
     3 2000 3000 2
+    
+Result
+
+![image](https://user-images.githubusercontent.com/25097700/122734935-206d2400-d2b1-11eb-8de8-367e63d4b4d6.png)
 
