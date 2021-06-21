@@ -11,28 +11,31 @@
 3. 程式執行後會以圖片顯示排程的執行運算結果
 
 
-## Sample Input
+## Sample Input ##
 
-1. TestCase 1 : 4 tasks with same arrived time, nice value and the same burst time.
-6
-4
-1 0 100 0
-2 0 100 0
-3 0 100 0
-4 0 100 0
+  1. TestCase 1 : 4 tasks with same arrived time, nice value and the same burst time.
 
-2. TestCase 2 : 3 tasks with max and mix nice value.
-6
-3
-1 0 1000 19
-2 0 1000 0
-3 0 1000 -20
+    6
+    4
+    1 0 100 0
+    2 0 100 0
+    3 0 100 0
+    4 0 100 0
+
+  2. TestCase 2 : 3 tasks with max and mix nice value.
+
+    6
+    3
+    1 0 1000 19
+    2 0 1000 0
+    3 0 1000 -20
 
 
-3. TestCase 3 : 3 tasks with one task arrived earlier then others.
-6
-3
-1 1000 3000 0
-2 2000 4000 -2
-3 2000 3000 2
+  3. TestCase 3 : 3 tasks with one task arrived earlier then others.
+
+    6
+    3
+    1 1000 3000 0
+    2 2000 4000 -2
+    3 2000 3000 2
 
