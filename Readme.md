@@ -1,6 +1,6 @@
 
 # CFS Scheduler 
-Fork from [SanchithHegde/completely-fair-scheduler](https://github.com/SanchithHegde/completely-fair-scheduler).
+Forked from [SanchithHegde/completely-fair-scheduler](https://github.com/SanchithHegde/completely-fair-scheduler).
 ## 程式說明:
 
 1. 此程式用於demo CFS Scheduler in Linux內的對應流程，使用者輸入對應的Time slice , numbers of tasks , task data(id, arrival time, burst time )
